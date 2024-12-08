@@ -1,10 +1,14 @@
-# 📚 RAG Anything: PDF, Docx, SQL or Whatever
+# Project for SALE: 📚 RAG Anything: PDF, Docx, SQL or Whatever
 
-![UI Screenshot](path_to_your_image.png)
+![path_to_your_image.png](https://github.com/snehitvaddi/RAG-Anything/blob/main/RAG-Anything.jpg)
 
 ## 🌟 Introduction
 
 Welcome to **RAG Anything**—your all-in-one AI-powered assistant for extracting insights from any source. Whether it's a PDF, Word document, or SQL database, this versatile tool is designed to understand your questions and provide precise, context-rich answers. Perfect for professionals, researchers, and anyone who needs quick access to information.
+
+## 📧 Contact
+
+To Buy the project, please contact [v.snehith999@gmail.com](mailto:v.snehith999@gmail.com).
 
 ## 🚀 Key Features
 
@@ -39,18 +43,6 @@ Welcome to **RAG Anything**—your all-in-one AI-powered assistant for extractin
 ## 🛠️ Technologies Used
 
 - **Streamlit**: For building the user interface.
-- **OpenAI GPT-4**: For natural language processing and response generation.
+- **OpenAI GPT-4**: For context aware response generation.
 - **FAISS**: For efficient similarity search in the vector store.
 - **SQLAlchemy**: For database connectivity and query execution.
-
-## 🤝 Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For more information, please contact [Your Name](mailto:your.email@example.com).
