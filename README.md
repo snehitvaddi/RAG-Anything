@@ -4,8 +4,8 @@
 
 ## 🌟 Introduction
 
-Welcome to **RAG Anything**—your all-in-one AI-powered assistant for extracting insights from any source. Whether it's a PDF, Word document, or SQL database, this versatile tool is designed to understand your questions and provide precise, context-rich answers. Perfect for professionals, researchers, and anyone who needs quick access to information.
-
+Welcome to **RAG Anything**—your all-in-one AI-powered assistant for extracting insights from any source. Whether it's a PDF, Word document, or SQL database, this versatile tool is designed to understand your questions and provide precise, context-rich answers. 
+Ready to be deployed
 ## 📧 Contact
 
 To Buy the project, please contact [v.snehith999@gmail.com](mailto:v.snehith999@gmail.com).
