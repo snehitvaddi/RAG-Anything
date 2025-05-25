@@ -36,7 +36,7 @@ To Buy the project, please contact [v.snehith999@gmail.com](mailto:v.snehith999@
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/rag-anything.git`
+1. **Clone the Repository**: `git clone https://github.com/snehitvaddi/rag-anything.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Run the Application**: `streamlit run app.py`
 
